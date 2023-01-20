@@ -1,2 +1,2 @@
 # Xylophone
-Xylophone with animate buttons
+Xylophone with animate buttons and sounds
